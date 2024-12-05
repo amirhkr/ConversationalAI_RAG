@@ -1,0 +1,9 @@
+matplotlib
+langdetect
+spacy
+llama-index
+llama-index-embeddings-huggingface
+deepeval
+chromadb
+llama_index.vector_stores.chroma
+llama_index.llms.huggingface
