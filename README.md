@@ -2,6 +2,9 @@
 
 This is a RAG application for analysis of a company's documents using open source model , developed with LlamaIndex and Mistral 7B from huggingFace.
 
+![alt text](llama.png)
+![alt text](hf.png)
+
 ## Project Structure
 
 - `notebook.ipynb`: Main Jupyter notebook
