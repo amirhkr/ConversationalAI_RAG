@@ -1,7 +1,12 @@
-# A Proposed RAG Architecture
+# An open source RAG Architecture
 
-This is a RAG application for analysis of a company's documents using open source model , developed with LlamaIndex and Mistral 7B.
+This is a RAG application for analysis of a company's documents using open source model , developed with LlamaIndex and Mistral 7B from huggingFace.
 
+## Project Structure
+
+- `notebook.ipynb`: Main Jupyter notebook
+- `data`: The folder with sample documents
+- `requirements.txt`: List of required Python packages.
 
 ## Prerequisites
 - Python version 3.8 or higher
@@ -52,12 +57,6 @@ This is a RAG application for analysis of a company's documents using open sourc
 4. **LLM Gauirral:**
 
 Optional: In case you want to run the gaurdrail on Jupyter,you may want to install the guardrails-ai as per this page: https://docs.confident-ai.com/docs/getting-started. You also need to configure this package with a token that can be provided by signing up to their hub page. this can enable your access to download their modules such as toxicity, etc.
-
-## Project Structure
-
-- `notebook.ipynb`: Main Jupyter notebook
-- `data`: The folder with sample documents
-- `requirements.txt`: List of required Python packages.
 
 ## License
 
